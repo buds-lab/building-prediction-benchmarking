@@ -1,11 +1,17 @@
 ## Model Notebook Guidelines
-- Prototyping is done in notebooks with the prefix `prototype_`
-- The primary model code developed for each technique should have the prefix `master_`
+- Prototyping is done in notebooks with the prefix `prototype-`
+- The primary model code developed for each technique should have the prefix `master-`
+- Feel free to copy the `master-` jupyter notebooks from previous analysis as the staring point of a new technique
+- Models should only use the data from 
+- Once a model is implemented
+
+## Models Tested:
 
 ####  Scikit-Learn Models
-Replicate [this](https://www.kaggle.com/claytonmiller/energy-prediction-example-random-forest) model using all the regression models in sklearn library (https://www.quora.com/How-do-I-find-out-the-regression-models-available-in-sklearn)
 
-Libraries used
+https://github.com/buds-lab/building-prediction-benchmarking/blob/master/model_notebooks/master-scikit-learn-models.ipynb
+
+Models implemented
 - from sklearn.ensemble import AdaBoostRegressor
 - from sklearn.ensemble import BaggingRegressor
 - from sklearn.tree import DecisionTreeRegressor
@@ -21,3 +27,8 @@ Libraries used
 - from sklearn.linear_model import RANSACRegressor
 - from sklearn.linear_model import SGDRegressor
 - from sklearn.linear_model import TheilSenRegressor
+
+#### EEnergy - Change Point Models
+
+
+#### M%V 2.0 - TWOT and Other Models
