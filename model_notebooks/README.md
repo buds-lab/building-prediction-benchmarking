@@ -1,6 +1,9 @@
-# Office Building Energy 
+## Model Notebook Guidelines
+- Prototyping is done in notebooks with the prefix `prototype_`
+- The primary model code developed for each technique should have the prefix `master_`
 
-####  Replicate [this](https://www.kaggle.com/claytonmiller/energy-prediction-example-random-forest) model using all the regression models in sklearn library (https://www.quora.com/How-do-I-find-out-the-regression-models-available-in-sklearn)
+####  Scikit-Learn Models
+Replicate [this](https://www.kaggle.com/claytonmiller/energy-prediction-example-random-forest) model using all the regression models in sklearn library (https://www.quora.com/How-do-I-find-out-the-regression-models-available-in-sklearn)
 
 Libraries used
 - from sklearn.ensemble import AdaBoostRegressor
