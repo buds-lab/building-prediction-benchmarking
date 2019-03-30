@@ -12,3 +12,5 @@ The results illustrate that there is no one size-fits-all modeling solution and 
 ## [ML Model Raw Data Resuls](https://github.com/buds-lab/building-prediction-benchmarking/tree/master/results)
 
 ## [ML Data Visualization Jupyter Notebooks and Graphics](https://github.com/buds-lab/building-prediction-benchmarking/tree/master/visualization_notebooks)
+
+## [Publication Draft](https://github.com/buds-lab/building-prediction-benchmarking/tree/master/publication)
