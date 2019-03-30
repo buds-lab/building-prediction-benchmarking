@@ -3,7 +3,7 @@
 - The primary model code developed for each technique should have the prefix `master-`
 - Feel free to copy the `master-` jupyter notebooks from previous analysis as the staring point of a new technique
 - Models should only use the data from 
-- Once a model is implemented
+- Once a model is implemented, please add to the list below
 
 ## Models Tested:
 
@@ -31,4 +31,4 @@ Models implemented
 #### EEnergy - Change Point Models
 
 
-#### M%V 2.0 - TWOT and Other Models
+#### M&V 2.0 - TWOT and Other Models
