@@ -5,6 +5,10 @@ Prediction is a common machine learning (ML) models used on sub-hourly building 
 
 The results illustrate that there is no one size-fits-all modeling solution and that various types of temporal behavior are difficult to capture using machine learning. This framework and methodology is designed to be a *baseline* implementation for other building energy data prediction methods developed by commercial providers or the wider research community. The benchmark data set can also be expanded with numerous other building performance data from a wider representation of buildings from around the world. The use of a baseline data set in future prediction research results in comparability and reproducibility of techniques in the built environment domain. 
 
-## [Input Files -- with README.md](https://github.com/buds-lab/building-prediction-benchmarking/tree/master/input)
+## [Raw Meter Data, Weather, Schedule and Meta Data Input Files](https://github.com/buds-lab/building-prediction-benchmarking/tree/master/input)
 
-## [Model Jupyter Notebooks -- with README.md](https://github.com/buds-lab/building-prediction-benchmarking/tree/master/model_notebooks)
+## [ML Modeling Jupyter Notebooks](https://github.com/buds-lab/building-prediction-benchmarking/tree/master/model_notebooks)
+
+## [ML Model Raw Data Resuls](https://github.com/buds-lab/building-prediction-benchmarking/tree/master/results)
+
+## [ML Data Visualization Jupyter Notebooks and Graphics](https://github.com/buds-lab/building-prediction-benchmarking/tree/master/visualization_notebooks)
